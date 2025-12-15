@@ -114,9 +114,9 @@
       "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg"
     },
     {
-      "name": "Celo Dollar",
+      "name": "Mento Dollar",
       "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
-      "symbol": "cUSD",
+      "symbol": "USDm",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cUSD.svg"
@@ -138,9 +138,9 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cBTC.png"
     },
     {
-      "name": "Celo Euro",
+      "name": "Mento Euro",
       "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
-      "symbol": "cEUR",
+      "symbol": "EURm",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cEUR.svg"
@@ -410,9 +410,9 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_IMMO.png"
     },
     {
-      "name": "Celo Real",
+      "name": "Mento Brazilian Real",
       "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
-      "symbol": "cREAL",
+      "symbol": "BRLm",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cREAL.svg"
@@ -586,9 +586,9 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
-      "name": "Celo Kenyan Shilling",
+      "name": "Mento Kenyan Shilling",
       "address": "0x456a3D042C0DbD3db53D5489e98dFb038553B0d0",
-      "symbol": "cKES",
+      "symbol": "KESm",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cKES.svg"
@@ -610,25 +610,25 @@
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/PUSO.svg"
     },
     {
-      "name": "Celo Colombian Peso",
+      "name": "Mento Colombian Peso",
       "address": "0x8A567e2aE79CA692Bd748aB832081C45de4041eA",
-      "symbol": "cCOP",
+      "symbol": "COPm",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cCOP.svg"
     },
     {
-      "name": "Celo Ghanaian Cedi",
+      "name": "Mento Ghanaian Cedi",
       "address": "0xfaea5f3404bba20d3cc2f8c4b0a888f55a3c7313",
-      "symbol": "cGHS",
+      "symbol": "GHSm",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/cGHS.svg"
     },
     {
-      "name": "ECO CFA (West African Franc)",
+      "name": "Mento West African CFA franc",
       "address": "0x73F93dcc49cB8A239e2032663e9475dd5ef29A08",
-      "symbol": "eXOF",
+      "symbol": "XOFm",
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/eXOF.svg"
