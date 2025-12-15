@@ -26,12 +26,12 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
       },
       {
-        "name": "Celo Euro",
+        "name": "Mento Euro",
         "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
-        "symbol": "cEUR",
+        "symbol": "EURm",
         "decimals": 18,
         "chainId": 44787,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+        "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/EURm.svg"
       },
       {
         "name": "NetM Token",
@@ -82,12 +82,12 @@
         "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
       },
       {
-        "name": "Celo Dollar",
+        "name": "Mento Dollar",
         "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
-        "symbol": "cUSD",
+        "symbol": "USDm",
         "decimals": 18,
         "chainId": 44787,
-        "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
+        "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/USDm.svg"
       },
       {
         "name": "Celo",
