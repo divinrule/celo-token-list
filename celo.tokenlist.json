@@ -602,12 +602,12 @@
       "logoURI": "https://celoscan.io/token/images/wbtccelo_32.svg"
     },
     {
-      "name": "PUSO",
+      "name": "Mento Philippine Peso",
       "address": "0x105d4A9306D2E55a71d2Eb95B81553AE1dC20d7B",
-      "symbol": "PUSO",
+      "symbol": "PHPm",
       "decimals": 18,
       "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/mento-protocol/mento-web/refs/heads/main/public/tokens/PUSO.svg"
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/PHPm.svg"
     },
     {
       "name": "Mento Colombian Peso",
@@ -632,6 +632,62 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/XOFm.svg"
+    },
+    {
+      "name": "Mento British Pound",
+      "address": "0xCCF663b1fF11028f0b19058d0f7B674004a40746",
+      "symbol": "GBPm",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/GBPm.svg"
+    },
+    {
+      "name": "Mento South African Rand",
+      "address": "0x4c35853A3B4e647fD266f4de678dCc8fEC410BF6",
+      "symbol": "ZARm",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/ZARm.svg"
+    },
+    {
+      "name": "Mento Canadian Dollar",
+      "address": "0xff4Ab19391af240c311c54200a492233052B6325",
+      "symbol": "CADm",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/CADm.svg"
+    },
+    {
+      "name": "Mento Australian Dollar",
+      "address": "0x7175504C455076F15c04A2F90a8e352281F492F9",
+      "symbol": "AUDm",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/AUDm.svg"
+    },
+    {
+      "name": "Mento Swiss Franc",
+      "address": "0xb55a79F398E759E43C95b979163f30eC87Ee131D",
+      "symbol": "CHFm",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/CHFm.svg"
+    },
+    {
+      "name": "Mento Japanese Yen",
+      "address": "0xc45eCF20f3CD864B32D9794d6f76814aE8892e20",
+      "symbol": "JPYm",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/JPYm.svg"
+    },
+    {
+      "name": "Mento Nigerian Naira",
+      "address": "0xE2702Bd97ee33c88c8f6f92DA3B733608aa76F71",
+      "symbol": "NGNm",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/mento-protocol/frontend-monorepo/refs/heads/main/apps/app.mento.org/public/tokens/NGNm.svg"
     },
     {
       "name": "COP Minteo",
