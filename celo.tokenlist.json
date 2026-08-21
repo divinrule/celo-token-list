@@ -2,12 +2,12 @@
   "name": "Celo Token List",
   "version": {
     "major": 3,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "logoURI": "https://celo-org.github.io/celo-token-list/assets/celo_logo.svg",
   "keywords": ["celo", "tokens", "refi"],
-  "timestamp": "2022-05-25T20:37:00.000+00:00",
+  "timestamp": "2026-08-21T00:00:00.000+00:00",
   "tokens": [
     {
       "name": "Green CELO",
@@ -712,6 +712,22 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://celoscan.io/token/images/wethcelo_64.png"
+    },
+    {
+      "name": "Amahoro",
+      "address": "0x06CAe70F74847f35De1e81F83641EE1B3FAa3bfa",
+      "symbol": "AMHR",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/celo-org/celo-token-list/main/assets/AMHR.png"
+    },
+    {
+      "name": "Inkoko",
+      "address": "0xc9FDC4b46EcD63BaB35FFbfE04D2e1903F47be0e",
+      "symbol": "KOKO",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/celo-org/celo-token-list/main/assets/KOKO.png"
     }
   ]
 }
