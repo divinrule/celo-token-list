@@ -704,8 +704,8 @@
       "decimals": 18,
       "chainId": 42220,
       "logoURI": "https://pridefunding.org/assets/PrideToken/PrideTokenbg.svg"
-    }
-    ,{
+    },
+    {
       "name": "wETH (Celo native bridge)",
       "address": "0xd221812de1bd094f35587ee8e174b07b6167d9af",
       "symbol": "wETH",
